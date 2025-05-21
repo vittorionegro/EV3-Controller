@@ -1,5 +1,3 @@
-package PackageDiRamon;
-
 import lejos.hardware.motor.Motor;
 import lejos.hardware.port.MotorPort;
 import lejos.hardware.motor.EV3LargeRegulatedMotor;
