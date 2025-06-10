@@ -1,6 +1,6 @@
 <div align="center">
 
-# EV3
+# EV3 Controller
 
 *Control your robot, unleash your creativity!*
 
