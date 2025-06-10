@@ -16,19 +16,25 @@
 ## Table of Contents
 
 - [Overview](#overview)
+
+  
 - [Getting Started](#getting-started)
+  
   - [Prerequisites](#prerequisites)
+    
   - [Installation](#installation)
+    
   - [Usage](#usage)
+    
   - [Testing](#testing)
 
 ---
 
 ## Overview
 
-**EV3** is a developer-centric tool that transforms your EV3 robot into an interactive remote-controlled vehicle, enabling seamless user engagement and control.
+**EV3 Controller** is a developer-centric tool that transforms your Lego EV3 robot into an interactive remote-controlled vehicle, enabling seamless user engagement and control.
 
-**Why EV3?**
+**Why EV3 Controller?**
 
 This project empowers developers to easily control EV3 robots through an intuitive interface. The core features include:
 
