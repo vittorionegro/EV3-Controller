@@ -63,4 +63,4 @@ Build EV3 from source and install dependencies:
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/vittorionegro/EV3
+git clone https://github.com/vittorionegro/EV3-Controller
