@@ -7,11 +7,6 @@
 <img alt="last-commit" src="https://img.shields.io/github/last-commit/vittorionegro/EV3?style=flat&logo=git&logoColor=white&color=0080ff">
 <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/vittorionegro/EV3?style=flat&color=0080ff">
 <img alt="repo-language-count" src="https://img.shields.io/github/languages/count/vittorionegro/EV3?style=flat&color=0080ff">
-
-*Built with the tools and technologies:*
-
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white">
-
 </div>
 
 <br>
